@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">Number Guesser</string>
+	<string name="start_game">Start Game</string>
+	<string name="guess_the_number">Guess The Number!</string>
+	<string name="submit">Submit</string>
+	<string name="reset">Reset</string>
+	<string name="gt_gt"><![CDATA[>>]]></string>
+	<string name="gt"><![CDATA[>]]></string>
+	<string name="lt"><![CDATA[<]]></string>
+	<string name="lt_lt"><![CDATA[<<]]></string>
+</resources>
